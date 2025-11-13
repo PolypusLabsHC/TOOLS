@@ -25,7 +25,7 @@ def banner():
 Welcome to iPyScan v. 1.0.29. Date: """
         + data.strftime("%d/%m/%Y")
         + """   
-Developed by: gh05tb0y (Werdeles Soares). E-Mail: gh05tb0y@disroot.org                          
+Developed by: Werdeles (gh05tb0y) Soares. E-Mail: gh05tb0y@disroot.org                          
 """
         + Fore.RESET
     )
