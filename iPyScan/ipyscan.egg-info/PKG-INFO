@@ -2,7 +2,7 @@ Metadata-Version: 2.4
 Name: ipyscan
 Version: 1.0.30
 Summary: Scanner de portas TCP com banner grabbing
-Author: gh05tb0y (Werdeles Soares)
+Author: Werdeles (gh05tb0y) Soares
 Author-email: gh05tb0y@disroot.org
 License: GPL-3.0-or-later
 Classifier: Programming Language :: Python :: 3
