@@ -1,8 +1,8 @@
 #!/usr/bin/python3
 # -*- coding: utf-8 -*-
 """
-iPyScan Version 1.0 (beta)
-Desenvolvido por: Werdeles Marcio de C. Soares
+iPyScan Version 1.30 (beta)
+Desenvolvido por: Werdeles (gh05tb0y) Soares
 E-mail: gh05tb0y@disroot.org
 -----------------------------------------------------------------------------
 iPyScan é um software de código aberto para escaneamento de portas TCP.
@@ -37,7 +37,7 @@ def parse_args():
             "Scans hosts, identifies services and exports in JSON or CSV\n"
         ),
         epilog=(
-            "Developed by (gh05tb0y) Werdeles Soares"
+            "Developed by Werdeles (gh05tb0y) Soares"
             "\nEx.:\n"
             "  ipyscan --target 127.0.0.1 --ports 20-80 --output json\n"
             "  ipyscan --target scanme.nmap.org --ports 1-1000 --threads 200 --output csv\n"
